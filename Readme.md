@@ -1,0 +1,1 @@
+### Python Project for creating, solving and comparing algotirhms for maze generation and Creation 
